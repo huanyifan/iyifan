@@ -1,4 +1,4 @@
-module github.com/islishude/gomodtest_andy
+module github.com/huanzhaorong/iyifan
 
 go 1.12
 
