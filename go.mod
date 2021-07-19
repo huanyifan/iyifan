@@ -1,4 +1,4 @@
-module github.com/huanzhaorong/iyifan
+module github.com/huanyifan/iyifan
 
 go 1.12
 
